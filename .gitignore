@@ -1,0 +1,16 @@
+**/*.settings/
+**/*.project
+**/target/
+**/.classpath
+**/logs/
+**/*.iml
+.settings
+.classpath
+*.class
+*.pyc
+**/.idea
+**/*release.properties
+**/*.pom.xml.releaseBackup
+
+
+
